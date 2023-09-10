@@ -47,7 +47,7 @@ import java.util.List;
 @Config
 public final class MecanumDrive {
     public static class Params {
-        // drive model parameters
+        // drive model parameters 2023
         public double inPerTick = 0;
         public double lateralInPerTick = 1;
         public double trackWidthTicks = 0;
